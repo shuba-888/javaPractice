@@ -20,6 +20,8 @@ public class Test {
 	}
 	public int add()
 	{
+		int a;
 		return i+j;
+		
 	}
 }
